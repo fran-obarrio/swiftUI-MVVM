@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2B15E876-6091-4C94-81FB-AF1F6800F5BE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB79E47B-09BC-44A1-8F9F-215179205200"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SouthTeams/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "runSearch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AB79E47B-09BC-44A1-8F9F-215179205200 - 9fee50b7b830cf30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SouthTeams.ContentView.runSearch() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "AB79E47B-09BC-44A1-8F9F-215179205200 - fc7dead8d4de0618"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in SouthTeams.ContentView.runSearch() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "593B32BA-638D-4751-8EFD-673B36804CF9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SouthTeams/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "runSearch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "593B32BA-638D-4751-8EFD-673B36804CF9 - 454137fc26881e3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SouthTeams.ContentView.runSearch() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1866">
+               </Location>
+               <Location
+                  uuid = "593B32BA-638D-4751-8EFD-673B36804CF9 - 264c303b733ba03c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SouthTeams.ContentView.runSearch() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "197">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "134181F4-ECB2-4FB7-A57F-79CE31158FEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SouthTeams/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "runSearch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "134181F4-ECB2-4FB7-A57F-79CE31158FEE - 454137fc26881d14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in SouthTeams.ContentView.runSearch() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1033">
+               </Location>
+               <Location
+                  uuid = "134181F4-ECB2-4FB7-A57F-79CE31158FEE - c9efe3a6d4bbfc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () async -&gt; () in SouthTeams.ContentView.runSearch() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C331804B-3D1D-4035-A82F-E82C475CBB50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SouthTeams/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D08E852C-2B3F-43D3-B961-FD7A6CDF77DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SouthTeams/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CBF318F-9D82-4E0C-B8CB-7DB3ACEA065C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SouthTeams/ViewModel/AppointmentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getAppointments()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7CBF318F-9D82-4E0C-B8CB-7DB3ACEA065C - dc08a381566ccd67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Never&gt;) -&gt; () in SouthTeams.AppointmentViewModel.getAppointments() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ViewModel/AppointmentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "7CBF318F-9D82-4E0C-B8CB-7DB3ACEA065C - dc08a381566ccd67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Never&gt;) -&gt; () in SouthTeams.AppointmentViewModel.getAppointments() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ViewModel/AppointmentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4931929-F292-44D4-94D6-C9790C80EADB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SouthTeams/ViewModel/AppointmentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getAppointments()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4931929-F292-44D4-94D6-C9790C80EADB - 37f92405ec06ec57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;SouthTeams.Appointment&gt;) -&gt; () in SouthTeams.AppointmentViewModel.getAppointments() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ViewModel/AppointmentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "66">
+               </Location>
+               <Location
+                  uuid = "B4931929-F292-44D4-94D6-C9790C80EADB - 97d135107e9eedf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SouthTeams.Appointment) -&gt; SouthTeams.Appointment in closure #2 (Swift.Array&lt;SouthTeams.Appointment&gt;) -&gt; () in SouthTeams.AppointmentViewModel.getAppointments() -&gt; ()"
+                  moduleName = "SouthTeams"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fran/Desktop/SouthTeams/SouthTeams/SouthTeams/ViewModel/AppointmentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00EA7B14-D5A3-4D11-93BA-2CDB4E278F29"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SouthTeams/ViewModel/AppointmentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getAppointments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15D32D2E-8A4B-40A9-A3CC-91AFB5AB0095"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SouthTeams/ViewModel/AppointmentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getAppointments()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
